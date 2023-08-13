@@ -47,10 +47,11 @@
 
 ## 2023
 ### 개인
-* DNF 게임 데이터를 이용하여 EDA 수행.
-* FIFA2021 데이터를 이용하여 data cleaning, transformation, 어떤 선수들이 높은 가치를 가지고 있지만, 여전히 낮은 임금을 받고 있는지 확인.
-* stackoverflow survey 데이터를 이용하여 IT관련 직업별 평균연봉 순위, 원격 작업과 연봉, 정신건강간의 상관관계 분석.
-* e-commerce 데이터를 이용하여 Cohort 분석, CLTV 분석 및 선형 회귀를 이용한 예측.
+* DNF 게임 데이터를 이용한 EDA 수행.
+* FIFA2021 데이터를 이용한 data cleaning, transformation, 어떤 선수들이 높은 가치를 가지고 있지만, 여전히 낮은 임금을 받고 있는지 확인.
+* stackoverflow survey 데이터를 이용한 IT관련 직업별 평균연봉 순위, 원격 작업과 연봉, 정신건강간의 상관관계 분석.
+* e-commerce 데이터를 이용한 Cohort 분석, CLTV 분석 및 선형 회귀를 이용한 예측.
+* 문서 어플 데이터를 이용한 funnel 분석, 사용자 수와 세션 수의 주간, 일간 분석.
 
 ***
 
